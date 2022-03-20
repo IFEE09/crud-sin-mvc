@@ -8,6 +8,8 @@
     <title>Aplicacion CRUD PHP 8</title>
 </head>
 <body>
+    <?php include "templates/header.php";?>
     <h1>Aplicacion CRUD web</h1>
+    <?php include "templates/footer.php";?>
 </body>
 </html>
